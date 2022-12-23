@@ -1,3 +1,3 @@
-module github.com/library-development/go-array
+module lib.dev/array
 
 go 1.19
